@@ -26,7 +26,7 @@ I'm a detail-oriented professional based in Pretoria, Gauteng, with 2+ years of 
 |---------|-------------|------|
 | **🌐 Personal Website** | Professional hub showcasing services and brand identity | [Live Site](https://mahlanguonlinesolutions.netlify.app/) |
 | **🎨 Design Portfolio** | Curated collection of logos, brand systems, resumes, and visual identities | [View Portfolio](https://cute-conkies-ca85fe.netlify.app/) |
-| **📜 Research Report** | *A Historical Perspective on the Economic and Political Relations Between China and Africa, 1955–2020: Angola as Case Study* — BA Honours research exploring trade, infrastructure, and FDI | [Read Report](#) |
+| **📜 Research Report** | *A Historical Perspective on the Economic and Political Relations Between China and Africa, 1955–2020: Angola as Case Study* — BA Honours research exploring trade, infrastructure, and FDI | [📄 Read Report](https://docs.google.com/document/d/1_gDkjjbj7UP0jXXMI1qayePn0PTEEXsn/edit?usp=sharing&ouid=106605077404390259630&rtpof=true&sd=true) |
 
 ---
 
