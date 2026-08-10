@@ -32,13 +32,29 @@ I'm a detail-oriented professional based in Pretoria, Gauteng, with 2+ years of 
 
 ## 🛠️ Skills & Tools
 
-**Administrative & HR:** Office Coordination • Records Management • Client Onboarding • Data Entry & Analysis • Research & Information Management
+### Websites & App Building
+Replit · Rocket · Google AI Studio · WordPress · Wix · Emergent AI
 
-**Design & Creative:** Brand Identity • Logo Design • Typography & Layout • Digital Portfolio Design • Canva • Photopea • Adobe Firefly • Ideogram
+### Design & Creative
+Canva · Adobe Firefly · Ideogram · PhotoGPT · Krea · Brand Identity · Logo Design · Typography & Layout · Digital Portfolio Design · Photopea
 
-**Digital & AI Tools:** Google Workspace • Microsoft 365 • NotebookLM • Claude AI • ChatGPT • Gemini
+### General-Purpose AI & LLMs
+ChatGPT · NotebookLM · Gemini (Gems) · Claude (Plugins) · DeepSeek · Qwen · Manus · Kimi K2 · Google AI Studio
 
-**Languages:** English • isiZulu • Sesotho • Afrikaans
+### Productivity & Collaboration
+**Microsoft 365:** Word · PowerPoint · Excel · Outlook  
+**Google Workspace:** Drive · Calendar · Docs · Sheets · Gmail
+
+### Educational & Research
+Research · Reporting · Transcribing · Data Analysis · Academic Literacy Facilitation · Curriculum Facilitation · TEFL Methodologies · ESL/EFL Instruction · Literacy Development
+
+### Administrative & Operations
+Client Coordination · Office Coordination · Records Management · Client Onboarding · Data Entry & Analysis · Research & Information Management · Project Coordination · Executive Research Support · Cross-Functional Execution
+
+### Languages
+English (Native/Professional) · isiZulu (Native) · Sesotho (Proficient) · Afrikaans (Intermediate)
+
+---
 
 ---
 
